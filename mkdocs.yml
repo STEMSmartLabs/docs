@@ -1,0 +1,59 @@
+site_name: STEM Smart Labs Docs
+theme:
+  name: material
+  features:
+    - navigation.top
+    - navigation.sections
+    - navigation.footer
+    - content.code.copy
+    - search.suggest
+extra_css:
+  - assets/video.css
+  - assets/footer-compact.css
+  - assets/code-tweaks.css
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.highlight:
+      linenums: true
+      anchor_linenums: true
+      auto_title: false
+plugins:
+  - search
+nav:
+  - Home: index.md
+  - Products:
+    - Arduino EK R4 Experiment Kit:
+      - Overview: products/arduino-ek-r4-experiment-kit/index.md
+      - Setup:
+        - Quick Start: products/arduino-ek-r4-experiment-kit/setup/quick-start.md
+        - Libraries: products/arduino-ek-r4-experiment-kit/setup/libraries.md
+      - Examples:
+        - Blink LED: products/arduino-ek-r4-experiment-kit/examples/blink-led.md
+        - OLED Hello: products/arduino-ek-r4-experiment-kit/examples/oled-hello.md
+        - DHT11 Temperature & Humidity: products/arduino-ek-r4-experiment-kit/examples/dht11.md
+        - Ultrasonic Distance: products/arduino-ek-r4-experiment-kit/examples/ultrasonic.md
+        - NeoPixel Ring Patterns: products/arduino-ek-r4-experiment-kit/examples/neopixel.md
+        - Servo Sweep: products/arduino-ek-r4-experiment-kit/examples/servo-sweep.md
+        - Buzzer Tones: products/arduino-ek-r4-experiment-kit/examples/buzzer-tones.md
+        - IR Remote Decode: products/arduino-ek-r4-experiment-kit/examples/ir-remote.md
+        - Button & Switch Input: products/arduino-ek-r4-experiment-kit/examples/buttons-switch.md
+        - Trimpot Analog Read: products/arduino-ek-r4-experiment-kit/examples/trimpot.md
+      - Troubleshooting: products/arduino-ek-r4-experiment-kit/troubleshooting.md
+      - Downloads: products/arduino-ek-r4-experiment-kit/downloads.md
+    - Arduino EK R4 AI IoT Kit:
+      - Overview: products/arduino-ek-r4-ai-iot-kit/index.md
+      - Setup:
+        - Quick Start: products/arduino-ek-r4-ai-iot-kit/setup/quick-start.md
+        - Libraries: products/arduino-ek-r4-ai-iot-kit/setup/libraries.md
+        - Arduino IoT Cloud: products/arduino-ek-r4-ai-iot-kit/setup/arduino-cloud.md
+      - Examples:
+        - "WiFi Connect & Ping": products/arduino-ek-r4-ai-iot-kit/examples/wifi-connect.md
+        - "IoT Cloud LED Toggle": products/arduino-ek-r4-ai-iot-kit/examples/iot-cloud-toggle.md
+        - "MQTT Publish/Subscribe": products/arduino-ek-r4-ai-iot-kit/examples/mqtt-basic.md
+        - "Edge Impulse: Vibration Classifier": products/arduino-ek-r4-ai-iot-kit/examples/edge-impulse-vibration.md
+      - Troubleshooting: products/arduino-ek-r4-ai-iot-kit/troubleshooting.md
+      - Downloads: products/arduino-ek-r4-ai-iot-kit/downloads.md
