@@ -1,3 +1,4 @@
 # Troubleshooting
-- Board/cable/port, drivers on Windows
+- Board/cable/port, 
+- USB drivers 
 - Close other serial monitors; reset if needed

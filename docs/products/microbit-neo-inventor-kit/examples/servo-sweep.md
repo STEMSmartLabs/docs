@@ -1,10 +1,19 @@
 # Servo Sweep
 
-Sweep a micro servo on D9.
+Sweep a micro servo on P2.
 
 ## Wiring
-- Signal→D9, VCC→5V, GND→GND
+- Signal→P2, VCC→5V, GND→GND
 
-## Block
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:S24389-18801-67362-03356" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+## Code
+<div style="position:relative; height:500px; width:100%; overflow:hidden;">
+  <iframe
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #e0e0e0; border-radius:6px;"
+    src="https://makecode.microbit.org/S24389-18801-67362-03356"
+    allowfullscreen="allowfullscreen"
+    frameborder="0"
+    sandbox="allow-popups allow-forms allow-scripts allow-same-origin allow-downloads">
+  </iframe>
+</div>
+
 

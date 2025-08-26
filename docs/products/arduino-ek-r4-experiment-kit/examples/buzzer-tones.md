@@ -3,7 +3,7 @@
 Play tones on a passive buzzer.
 
 ## Wiring
-- + → D11, − → GND
+- \+ → D11, − → GND
 
 ## Code
 ```cpp

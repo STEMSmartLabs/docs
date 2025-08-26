@@ -3,32 +3,15 @@
 Read ambient temperature and humidity.
 
 ## Wiring
-- DHT11 OUT→D8; VCC→5V; GND→GND
+- DHT11 OUT→P15; VCC→5V; GND→GND
 
 ## Code
-```cpp
-#include <DHT.h>
-
-#define DHTPIN 8
-#define DHTTYPE DHT11
-
-DHT dht(DHTPIN, DHTTYPE);
-
-void setup() {
-  Serial.begin(115200);
-  dht.begin();
-}
-
-void loop() {
-  float h = dht.readHumidity();
-  float t = dht.readTemperature();
-  if (isnan(h) || isnan(t)) {
-    Serial.println("Sensor error");
-    delay(2000);
-    return;
-  }
-  Serial.print("T: "); Serial.print(t);
-  Serial.print(" C  H: "); Serial.println(h);
-  delay(2000);
-}
-```
+<div style="position:relative; height:500px; width:100%; overflow:hidden;">
+  <iframe
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #e0e0e0; border-radius:6px;"
+    src="https://makecode.microbit.org/S02299-13317-95503-54187"
+    allowfullscreen="allowfullscreen"
+    frameborder="0"
+    sandbox="allow-popups allow-forms allow-scripts allow-same-origin allow-downloads">
+  </iframe>
+</div>

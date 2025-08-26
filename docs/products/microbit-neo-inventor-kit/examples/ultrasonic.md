@@ -3,28 +3,15 @@
 Measure distance using HC‑SR04.
 
 ## Wiring
-- TRIG→D4, ECHO→D7, VCC→5V, GND→GND
+- TRIG→P13, ECHO→P14, VCC→5V, GND→GND
 
 ## Code
-```cpp
-const int TRIG = 4;
-const int ECHO = 7;
-
-long microsecondsToCm(long us) { return us / 29 / 2; }
-
-void setup() {
-  Serial.begin(115200);
-  pinMode(TRIG, OUTPUT);
-  pinMode(ECHO, INPUT);
-}
-
-void loop() {
-  digitalWrite(TRIG, LOW); delayMicroseconds(2);
-  digitalWrite(TRIG, HIGH); delayMicroseconds(10);
-  digitalWrite(TRIG, LOW);
-  long duration = pulseIn(ECHO, HIGH, 30000);
-  long cm = microsecondsToCm(duration);
-  Serial.print(cm); Serial.println(" cm");
-  delay(300);
-}
-```
+<div style="position:relative; height:500px; width:100%; overflow:hidden;">
+  <iframe
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #e0e0e0; border-radius:6px;"
+    src="https://makecode.microbit.org/S10440-94055-69278-58215"
+    allowfullscreen="allowfullscreen"
+    frameborder="0"
+    sandbox="allow-popups allow-forms allow-scripts allow-same-origin allow-downloads">
+  </iframe>
+</div>
