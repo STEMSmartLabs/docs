@@ -1,9 +1,28 @@
-# Button & Switch Input
+# Switch
 
-Read a momentary button on P4.
+A **switch** is one of the most basic input components in electronics. Unlike a button that is momentary, a switch **stays in its position**—ON or OFF—until you change it. This makes it ideal for controlling power, modes, or states in your projects.
 
-## Wiring
-- Button→P4 to GND with INPUT_PULLUP
+---
+
+## What It Does
+This example reads the state of a switch and shows how your program can react depending on whether the switch is ON or OFF. It introduces the concept of **toggle inputs**, which are widely used in real devices.
+
+---
+
+## Real-World Applications
+Switches are everywhere in daily life and technology. Some common uses include:
+
+- 💡 **Power Control** – Light switches, appliance ON/OFF switches.  
+- 🏠 **Smart Homes** – Controlling fans, lights, or connected devices.  
+- 🎮 **Mode Selection** – Changing between game modes or difficulty levels.  
+- 🤖 **Robotics** – Enabling/disabling features, reset switches, or safety locks.  
+- 🧪 **STEM Projects** – Teaching logic control, toggling states, or acting as a manual override.  
+
+With a switch, students learn how devices **store state** and how physical inputs can control digital systems.
+
+✅ Once you can read a switch input, you can use it to **turn LEDs on/off, change motor states, toggle alarms, or even switch between entire program modes**.
+
+---
 
 ## Code
 <div style="position:relative; height:500px; width:100%; overflow:hidden;">
@@ -15,3 +34,10 @@ Read a momentary button on P4.
     sandbox="allow-popups allow-forms allow-scripts allow-same-origin allow-downloads">
   </iframe>
 </div>
+
+---
+
+
+
+
+

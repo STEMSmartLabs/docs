@@ -58,23 +58,22 @@ nav:
       - Troubleshooting: products/arduino-ek-r4-ai-iot-kit/troubleshooting.md
       - Downloads: products/arduino-ek-r4-ai-iot-kit/downloads.md
     - Microbit Neo Inventor Kit:
-      - Overview: products/microbit-neo-inventor-kit/index.md
+      - Introduction: products/microbit-neo-inventor-kit/index.md
       - Setup:
         - Quick Start: products/microbit-neo-inventor-kit/setup/quick-start.md
-        - Extensions: products/microbit-neo-inventor-kit/setup/extensions.md
       - Examples:
-        - Servo Sweep: products/microbit-neo-inventor-kit/examples/servo-sweep.md
-        - NeoPixel Ring Patterns: products/microbit-neo-inventor-kit/examples/neopixel.md
-        - Fan: products/microbit-neo-inventor-kit/examples/fan.md
-        - DHT11 Temperature & Humidity: products/microbit-neo-inventor-kit/examples/dht11.md
+        - Servo Motor: products/microbit-neo-inventor-kit/examples/servo-sweep.md
+        - NeoPixel Ring: products/microbit-neo-inventor-kit/examples/neopixel.md
+        - Motor With Fan: products/microbit-neo-inventor-kit/examples/fan.md
+        - Temperature & Humidity: products/microbit-neo-inventor-kit/examples/dht11.md
         - Blink LED: products/microbit-neo-inventor-kit/examples/blink-led.md
-        - IR Remote Decode: products/microbit-neo-inventor-kit/examples/ir-remote.md
-        - OLED Hello: products/microbit-neo-inventor-kit/examples/oled-hello.md
-        - Ultrasonic Distance: products/microbit-neo-inventor-kit/examples/ultrasonic.md
-        - Buzzer Tones: products/microbit-neo-inventor-kit/examples/buzzer-tones.md
-        - Button & Switch Input: products/microbit-neo-inventor-kit/examples/buttons-switch.md
-        - Trimpot Analog Read: products/microbit-neo-inventor-kit/examples/trimpot.md
+        - IR Remote Receiver: products/microbit-neo-inventor-kit/examples/ir-remote.md
+        - OLED Display: products/microbit-neo-inventor-kit/examples/oled-hello.md
+        - Ultrasonic Sensor: products/microbit-neo-inventor-kit/examples/ultrasonic.md
+        - Buzzer: products/microbit-neo-inventor-kit/examples/buzzer-tones.md
+        - Button: products/microbit-neo-inventor-kit/examples/buttons-switch.md
+        - Trimpot: products/microbit-neo-inventor-kit/examples/trimpot.md
         - LDR: products/microbit-neo-inventor-kit/examples/ldr.md
         - Switch: products/microbit-neo-inventor-kit/examples/switch.md
-      - Troubleshooting: products/microbit-neo-inventor-kit/troubleshooting.md
+      
              
