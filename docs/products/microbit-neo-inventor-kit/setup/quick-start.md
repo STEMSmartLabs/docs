@@ -13,14 +13,13 @@ The **Neo Inventor Kit for BBC Microbit** works seamlessly with the official [Mi
 2. Click on **New Project** and create a project.  
 
    ![MakeCode New Project](images/makecode-new-project.png)
-3. In the MakeCode editor, click on the **⋯ (More)** menu, then select **Extensions**.  
+3. In the MakeCode editor, click on the **Extensions** menu.  
 
    ![Open Extensions Menu](images/makecode-open-extensions.png)
 4. In the search box, paste the GitHub URL:
 
    https://github.com/STEMSmartLabs/neo-inventor-kit-microbit
 and press Enter, then click on the extension to install it.
-
 ![Install Extensions ](images/makecode-install-extension.png)
 
 
@@ -30,11 +29,11 @@ Once installed, you will see the Neo Inventor Kit category in the MakeCode block
 
 ---
 
-## Prepare Your Hardware
-1. Insert your **BBC micro:bit** into the slot on the Neo Inventor Kit board.  
-2. Connect the micro:bit to your computer using a USB cable.  
-3. The micro:bit will appear on your computer as a **USB drive**.
-
+## Points to remember when using Neo Inventor Kit
+1. Always initialize the kit by using **initialize Neo Inventor kit** in the **on start** block in all your projects.
+![Neo Inventor Kit Initialize ](images/makecode-neo-inventor-kit-init.png)
+2. It will disable microbit onboard LED since these pins are used by the Neo Inventor kit so duing the boot this initialization happens because of which you will see the fan and buzzer turning on and off.
+3. Do not use the microbit onboard 25 LEDs in the projects which means do not use show blocks under the **Basic** category use only the OLED display blocks under **Neo Inventor Kit** category since it is now remapped.
 ---
 
 
