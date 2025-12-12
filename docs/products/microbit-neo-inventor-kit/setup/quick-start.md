@@ -29,11 +29,29 @@ Once installed, you will see the Neo Inventor Kit category in the MakeCode block
 
 ---
 
+## Demo program on to Microbit
+1. First connect the microbit board to the computer with the USB cable provided in the kit as show below:
+![Microbit USB Connection ](images/microbit-connect-usb-program.png)
+2. Download the below demo program onto the microbit and mount the programmed microbit on to the Neo Inventor kit and explore it.
+
+## Code
+<div style="position:relative; height:500px; width:100%; overflow:hidden;">
+  <iframe
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #e0e0e0; border-radius:6px;"
+    src="https://makecode.microbit.org/_hso4hE7AkAqX"
+    allowfullscreen="allowfullscreen"
+    frameborder="0"
+    sandbox="allow-popups allow-forms allow-scripts allow-same-origin allow-downloads">
+  </iframe>
+</div>
+
+
 ## Points to remember when using Neo Inventor Kit
 1. Always initialize the kit by using **initialize Neo Inventor kit** in the **on start** block in all your projects.
 ![Neo Inventor Kit Initialize ](images/makecode-neo-inventor-kit-init.png)
 2. It will disable microbit onboard LED since these pins are used by the Neo Inventor kit so duing the boot this initialization happens because of which you will see the fan and buzzer turning on and off.
-3. Do not use the microbit onboard 25 LEDs in the projects which means do not use show blocks under the **Basic** category use only the OLED display blocks under **Neo Inventor Kit** category since it is now remapped.
+3. Do not use the microbit onboard 25 LEDs in the projects which means do not use **show** blocks under the **Basic** category use only the OLED display blocks under **Neo Inventor Kit** category since it is now remapped.
+
 ---
 
 
