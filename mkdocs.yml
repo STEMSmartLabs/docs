@@ -75,5 +75,18 @@ nav:
         - Trimpot: products/microbit-neo-inventor-kit/examples/trimpot.md
         - LDR: products/microbit-neo-inventor-kit/examples/ldr.md
         - Switch: products/microbit-neo-inventor-kit/examples/switch.md
+    - Microbit Neo Beginner Kit:
+      - Introduction: products/microbit-neo-beginner-kit/index.md
+      - Setup:
+        - Quick Start: products/microbit-neo-beginner-kit/setup/quick-start.md
+      - Examples:
+        - Servo Motor: products/microbit-neo-beginner-kit/examples/servo-sweep.md
+        - NeoPixel Ring: products/microbit-neo-beginner-kit/examples/neopixel.md
+        - Motor With Fan: products/microbit-neo-beginner-kit/examples/fan.md
+        - Temperature & Humidity: products/microbit-neo-beginner-kit/examples/dht11.md
+        - OLED Display: products/microbit-neo-beginner-kit/examples/oled-hello.md
+        - Ultrasonic Sensor: products/microbit-neo-beginner-kit/examples/ultrasonic.md
+        - LDR: products/microbit-neo-beginner-kit/examples/ldr.md
+        - Smart Plant Watering: products/microbit-neo-beginner-kit/examples/smart-plant-watering.md
       
              
