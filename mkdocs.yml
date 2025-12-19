@@ -13,6 +13,7 @@ extra_css:
   - assets/code-tweaks.css
 markdown_extensions:
   - admonition
+  - attr_list
   - toc:
       permalink: true
   - pymdownx.superfences
@@ -80,13 +81,18 @@ nav:
       - Setup:
         - Quick Start: products/microbit-neo-beginner-kit/setup/quick-start.md
       - Examples:
-        - Servo Motor: products/microbit-neo-beginner-kit/examples/servo-sweep.md
         - NeoPixel Ring: products/microbit-neo-beginner-kit/examples/neopixel.md
-        - Motor With Fan: products/microbit-neo-beginner-kit/examples/fan.md
-        - Temperature & Humidity: products/microbit-neo-beginner-kit/examples/dht11.md
         - OLED Display: products/microbit-neo-beginner-kit/examples/oled-hello.md
-        - Ultrasonic Sensor: products/microbit-neo-beginner-kit/examples/ultrasonic.md
         - LDR: products/microbit-neo-beginner-kit/examples/ldr.md
+        - Temperature & Humidity: products/microbit-neo-beginner-kit/examples/dht11.md
+        - Ultrasonic Sensor: products/microbit-neo-beginner-kit/examples/ultrasonic.md
+        - Servo Motor: products/microbit-neo-beginner-kit/examples/servo-sweep.md
         - Smart Plant Watering: products/microbit-neo-beginner-kit/examples/smart-plant-watering.md
+        
+       
+        
+        
+       
+        
       
              

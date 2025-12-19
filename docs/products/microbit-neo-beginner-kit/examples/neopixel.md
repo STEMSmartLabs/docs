@@ -26,6 +26,12 @@ With NeoPixels, you can make your prototypes **both functional and visually enga
 ✅ Experiment with different color patterns and animations to turn your projects into **interactive, eye-catching experiences**.
 
 ---
+## Connection to the breakout
+
+- Connect the Neopixel ring to the port P2, GND and 3v3 (Blue)
+![Neopixel ring connection port](images/neopixel_p2.png)
+
+---
 
 ## Code
 <div style="position:relative; height:500px; width:100%; overflow:hidden;">

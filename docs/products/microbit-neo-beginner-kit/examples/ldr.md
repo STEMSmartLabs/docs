@@ -23,6 +23,19 @@ Using an LDR, students learn how to make their prototypes **react intelligently 
 ✅ With the LDR, you can build projects that **respond to light**—from night lamps and alarms to smart energy-saving devices.
 
 ---
+## Connection to the breakout
+
+- Connect the LDR to the port 3v3, GND and P2 (Blue)
+![LDR connection port](images/ldr_p2.png)
+
+- Connect the OLED to the port P20, P19 , GND and 3v3 (Yellow)
+![OLED connection port](images/oled__P20_P19_GND_3V.png)
+
+- Connection of LDR and OLED with the breakout board
+
+![LDR and OLED connection](images/ldr_oled.jpeg){ width="420" height="240" }
+
+---
 
 ## Code
 <div style="position:relative; height:500px; width:100%; overflow:hidden;">

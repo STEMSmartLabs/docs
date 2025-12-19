@@ -24,6 +24,12 @@ The OLED display transforms projects from **invisible logic** into **visible, in
 ✅ Once you can display “STEM Smart Labs” try showing **sensor values, scrolling messages, or even icons and graphics** to make your projects more engaging and interactive.
 
 ---
+## Connection to the breakout
+
+- Connect the OLED to P20, P19 , GND and 3v3 port (Yellow)
+![OLED connection port](images/oled__P20_P19_GND_3V.png)
+
+---
 
 ## Code
 <div style="position:relative; height:500px; width:100%; overflow:hidden;">

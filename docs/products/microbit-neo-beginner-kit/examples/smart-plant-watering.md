@@ -44,6 +44,28 @@ This project uses the following modules from the Neo Beginner Kit:
 ✅ Once you understand how smart plant watering system works, you can expand this idea into different areas of agriculture.
 
 ---
+## Connection to the breakout
+
+- Connect the moisture sensor to the port 3V3, GND and P1 (Blue)
+![Moisture connection port](images/moisture_p1.png)
+
+- Connect the neopixel ring to the port 3v3, GND and P2 (Blue)
+![Neopixel connection port](images/neopixel_p2.png)
+
+- Connect 9V battery to the relay and the water pump.
+![Battery, relay and pump connection](images/battery_relay_pump.png){ width="420" height="240" }
+
+- Connect the Relay and pump ring to the port 3v3, GND and P8 (Blue).
+![Neopixel connection port](images/relay_pump_p8.png)
+
+- Connect the OLED to the port P20, P19 , GND and 3v3 (Yellow)
+![OLED connection port](images/oled__P20_P19_GND_3V.png)
+
+- Connection of Smart plant watering system with the breakout board
+
+![Smart plant watering connection](images/smart_plant_water.jpeg){ width="420" height="240" }
+
+---
 
 ## Code
 <div style="position:relative; height:500px; width:100%; overflow:hidden;">

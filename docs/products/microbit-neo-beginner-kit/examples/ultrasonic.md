@@ -24,6 +24,19 @@ With an ultrasonic sensor, students can build prototypes that **react to their e
 ✅ Once you can measure distance, you can extend this into projects like **robot navigation, smart alarms, or level detectors**.
 
 ---
+## Connection to the breakout
+
+- Connect the Ultrasonic to VCC, P15 , P16 and GND port (Yellow)
+![Ultrasonic connection port](images/ultrasonic_VCC_P15_P16_GND.png)
+
+- Connect the OLED to P20, P19 , GND and 3v3 port (Yellow)
+![OLED connection port](images/oled__P20_P19_GND_3V.png)
+
+- Connection of Ultrasonic and OLED with the breakout board
+
+![Ultrasonic and OLED connection](images/ultrasonic_oled.jpeg){ width="420" height="240" }
+
+---
 
 ## Code
 <div style="position:relative; height:500px; width:100%; overflow:hidden;">

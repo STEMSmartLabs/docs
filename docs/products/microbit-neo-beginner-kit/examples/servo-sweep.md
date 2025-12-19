@@ -23,6 +23,19 @@ By mastering servo control, students can design prototypes that involve **moveme
 ✅ Once you understand how to sweep a servo, you can expand this idea into **real-world prototypes**—from robotic arms to smart devices that respond to user input.
 
 ---
+## Connection to the breakout
+
+- Connect the servo motor cable to the 3 pins marked as GND, VCC and P2
+![Servo connection pins](images/servo_p2.png)
+
+- Connect the OLED to the port P20, P19 , GND and 3v3 (Yellow)
+![OLED connection port](images/oled__P20_P19_GND_3V.png)
+
+- Connection of Servo and OLED with the breakout board
+
+![Servo and OLED connection](images/servo_oled.jpeg){ width="420" height="240" }
+
+---
 
 ## Code
 <div style="position:relative; height:500px; width:100%; overflow:hidden;">

@@ -25,6 +25,20 @@ By using the DHT11, students learn how **data from the environment** can trigger
 ✅ With the DHT11 sensor, students can build projects that **sense, respond, and adapt to environmental conditions**, making their prototypes more intelligent and practical.
 
 ---
+## Connection to the breakout
+
+- Connect the DHT11 module to the port 3v3, GND and P1 (Blue)
+![DHT11 connection port](images/dht11_p1.png)
+
+- Connect the OLED to P20, P19 , GND and 3v3 port (Yellow)
+![OLED connection port](images/oled__P20_P19_GND_3V.png)
+
+- Connection of DHT11 and OLED with the breakout board
+
+![DHT11 and OLED connection](images/dht11_oled.jpeg){ width="420" height="240" }
+
+
+---
 
 
 ## Code
