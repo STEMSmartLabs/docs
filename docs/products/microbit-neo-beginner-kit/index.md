@@ -8,9 +8,8 @@ All modules are connected using the pre-terminated cables included in the kit, m
 ## Why Choose the Neo Beginner Kit for BBC Microbit?
 - ⚡ **Plug-and-Play Wiring** –  All sensors and modules use the provided cables. No loose wires or breadboard required.
 - 🎯 **Beginner-Friendly** – Perfect for students and hobbyists starting with micro:bit projects.
-- 🌱 **Real-World Applications** – Build Smart Plant Watering systems, Weather Stations, Distance Alarms, and more.
- 
-- 🎓 **Learn with MakeCode or Python** – Start with block coding and smoothly transition to MicroPython.
+- 🌱 **Real-World Applications** – Build Smart Plant Watering systems, Weather Stations, and more.
+ - 🎓 **Learn with MakeCode or Python** – Start with block coding and smoothly transition to MicroPython.
 - 🧪 **Reliable & Classroom-Safe** – Pre-tested components ensure smooth learning without debugging hardware.
 ---
 
@@ -22,17 +21,17 @@ The **Neo Beginner Kit** includes all components plus the cables required to con
 | Module / Component         | Description                                            |
 | -------------------------- | ------------------------------------------------------ |
 | **Breakout Board**         | Connects micro:bit to all modules using plug-in cables |
-| **Ultrasonic Sensor**      | Measures distance using sound waves                    |
-| **LDR Sensor Module**      | Detects surrounding light levels                       |
-| **DHT11 Sensor**           | Reads temperature and humidity values                  |
-| **Soil Moisture Sensor**   | Measures soil wetness for watering projects            |
 | **Ring NeoPixel Module**   | RGB LED ring for colorful animations                   |
-| **Servo Motor**            | Rotates to specific angles                             |
 | **OLED Display (I2C)**     | Displays text, menus, icons, and sensor data           |
+| **DHT11 Sensor**           | Reads temperature and humidity values                  |
+| **LDR Sensor Module**      | Detects surrounding light levels                       |
+| **Soil Moisture Sensor**   | Measures soil wetness for watering projects            |
 | **5V DC Motor with Fan**   | Used for airflow or automation tasks                   |
 | **Relay Module**           | Controls the water pump or other devices safely        |
 | **Water Pump + Tube**      | For irrigation and plant-watering demos                |
 | **Cables with Connectors** | Used to connect every module to the breakout board     |
+| **9V Battery** | 9V Battery connected to the relay module to operate Water Pump and 5V DC Motor with Fan     |
+
 
 
 ---
@@ -40,8 +39,6 @@ The **Neo Beginner Kit** includes all components plus the cables required to con
 ## Plug-and-Play Project Building
 
 Every project in this kit is built by connecting modules using the provided cables, ensuring:
-
-- No polarity mistakes
 
 - Faster setup for classroom demos
 

@@ -81,13 +81,14 @@ nav:
       - Setup:
         - Quick Start: products/microbit-neo-beginner-kit/setup/quick-start.md
       - Examples:
+        - Sensor bit board: products/microbit-neo-beginner-kit/examples/sensor-bit.md
         - NeoPixel Ring: products/microbit-neo-beginner-kit/examples/neopixel.md
         - OLED Display: products/microbit-neo-beginner-kit/examples/oled-hello.md
-        - LDR: products/microbit-neo-beginner-kit/examples/ldr.md
         - Temperature & Humidity: products/microbit-neo-beginner-kit/examples/dht11.md
-        - Ultrasonic Sensor: products/microbit-neo-beginner-kit/examples/ultrasonic.md
-        - Servo Motor: products/microbit-neo-beginner-kit/examples/servo-sweep.md
+        - LDR: products/microbit-neo-beginner-kit/examples/ldr.md
+        - Soil Moisture: products/microbit-neo-beginner-kit/examples/moisture.md
         - Smart Plant Watering: products/microbit-neo-beginner-kit/examples/smart-plant-watering.md
+        - Smart Fan Challenge: products/microbit-neo-beginner-kit/examples/smart-fan.md
         
        
         

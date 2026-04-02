@@ -23,6 +23,8 @@ This project uses the following modules from the Neo Beginner Kit:
 
 - **Soil Moisture Sensor** – Detects dryness or moisture in the soil
 
+- **NeoPixel Ring** – Shows whether the plant is happy (green) or sad (red)
+
 - **Relay Module** – Safely turns the pump ON and OFF
 
 - **Water Pump + Tube** – Pumps water into the plant
@@ -46,24 +48,38 @@ This project uses the following modules from the Neo Beginner Kit:
 ---
 ## Connection to the breakout
 
-- Connect the moisture sensor to the port 3V3, GND and P1 (Blue)
-![Moisture connection port](images/moisture_p1.png)
+- Connect the Soil Moisture metal probe to the module board using the black and red wires as shown below:
 
-- Connect the neopixel ring to the port 3v3, GND and P2 (Blue)
-![Neopixel connection port](images/neopixel_p2.png)
+![Soil Moisture Metal probe and Module board connection](images/soil_moisture_sensor.jpeg)
+
+- Connect the Soil Moisture Sensor to the port P1.
+
+![Soil Moisture connection port](images/sensor_bit_port_1.jpeg){ width="420" height="240" }
+
+- Connect the Neopixel ring to the port P2.
+
+![Neopixel ring connection port](images/sensor_bit_port_2.jpeg){ width="420" height="240" }
+
+- Connect the tube to the pump.
+
+![Pump and tube connection](images/pump_tube.jpeg){ width="420" height="240" }
 
 - Connect 9V battery to the relay and the water pump.
-![Battery, relay and pump connection](images/battery_relay_pump.png){ width="420" height="240" }
 
-- Connect the Relay and pump ring to the port 3v3, GND and P8 (Blue).
-![Neopixel connection port](images/relay_pump_p8.png)
+![Battery, relay and pump connection](images/pump_relay.jpeg){ width="420" height="240" }
 
-- Connect the OLED to the port P20, P19 , GND and 3v3 (Yellow)
-![OLED connection port](images/oled__P20_P19_GND_3V.png)
+- Connect the Relay to the port P8.
+![Relay connection port](images/pump_relay_battery.jpeg)
 
-- Connection of Smart plant watering system with the breakout board
+- Group of I2C female header, which can connect with OLED module.
 
-![Smart plant watering connection](images/smart_plant_water.jpeg){ width="420" height="240" }
+![I2C Female Port of Sensor:bit board](images/sensor_bit_i2c.jpg){ width="420" height="240" }
+
+- Connect the OLED module directly.
+
+![OLED connection](images/oled.jpg){ width="420" height="240" }
+
+- **Always keep the microbit, breakout board and sensors away from the water before you turn on the circuit to avoid damage to it.** Only the pump and moisture sensor can be exposed to water.
 
 ---
 
@@ -71,7 +87,7 @@ This project uses the following modules from the Neo Beginner Kit:
 <div style="position:relative; height:500px; width:100%; overflow:hidden;">
   <iframe
     style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #e0e0e0; border-radius:6px;"
-    src="https://makecode.microbit.org/S55866-51201-17803-53777"
+    src="https://makecode.microbit.org/_fcAHdTbtj1cc"
     allowfullscreen="allowfullscreen"
     frameborder="0"
     sandbox="allow-popups allow-forms allow-scripts allow-same-origin allow-downloads">

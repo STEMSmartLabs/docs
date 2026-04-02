@@ -25,15 +25,21 @@ Using an LDR, students learn how to make their prototypes **react intelligently 
 ---
 ## Connection to the breakout
 
-- Connect the LDR to the port 3v3, GND and P2 (Blue)
-![LDR connection port](images/ldr_p2.png)
+- Group of I2C female header, which can connect with OLED module.
 
-- Connect the OLED to the port P20, P19 , GND and 3v3 (Yellow)
-![OLED connection port](images/oled__P20_P19_GND_3V.png)
+![I2C Female Port of Sensor:bit board](images/sensor_bit_i2c.jpg){ width="420" height="240" }
 
-- Connection of LDR and OLED with the breakout board
+- Connect the OLED module directly.
 
-![LDR and OLED connection](images/ldr_oled.jpeg){ width="420" height="240" }
+![OLED connection](images/oled.jpg){ width="420" height="240" }
+
+- Connect the LDR to the port P2.
+
+![LDR connection port](images/sensor_bit_port_2.jpeg){ width="420" height="240" }
+
+-  Connection of LDR and OLED.
+
+![LDR](images/ldr_oled.jpg){ width="420" height="240" }
 
 ---
 

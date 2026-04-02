@@ -27,16 +27,21 @@ By using the DHT11, students learn how **data from the environment** can trigger
 ---
 ## Connection to the breakout
 
-- Connect the DHT11 module to the port 3v3, GND and P1 (Blue)
-![DHT11 connection port](images/dht11_p1.png)
+- Connect the DHT11 module to the port P1.
 
-- Connect the OLED to P20, P19 , GND and 3v3 port (Yellow)
-![OLED connection port](images/oled__P20_P19_GND_3V.png)
+![DHT11 connection port](images/dht11.jpg)
 
-- Connection of DHT11 and OLED with the breakout board
+- Group of I2C female header, which can connect with OLED module.
 
-![DHT11 and OLED connection](images/dht11_oled.jpeg){ width="420" height="240" }
+![I2C Female Port of Sensor:bit board](images/sensor_bit_i2c.jpg){ width="420" height="240" }
 
+- Connect the OLED module directly.
+
+![OLED connection](images/oled.jpg){ width="420" height="240" }
+
+- Connection of DHT11 and OLED.
+
+![DHT11 and OLED connection](images/dht11_oled.jpg){ width="420" height="240" }
 
 ---
 

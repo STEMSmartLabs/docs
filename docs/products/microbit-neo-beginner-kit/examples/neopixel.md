@@ -28,8 +28,11 @@ With NeoPixels, you can make your prototypes **both functional and visually enga
 ---
 ## Connection to the breakout
 
-- Connect the Neopixel ring to the port P2, GND and 3v3 (Blue)
-![Neopixel ring connection port](images/neopixel_p2.png)
+- Connect the Neopixel ring to the port P2.
+![Neopixel ring connection port](images/sensor_bit_port_2.jpeg){ width="420" height="240" }
+
+- Neopixel ring after connecting to port P2.
+![Neopixel ring](images/neopixel.jpg){ width="420" height="240" }
 
 ---
 

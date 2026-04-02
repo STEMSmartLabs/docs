@@ -26,8 +26,13 @@ The OLED display transforms projects from **invisible logic** into **visible, in
 ---
 ## Connection to the breakout
 
-- Connect the OLED to P20, P19 , GND and 3v3 port (Yellow)
-![OLED connection port](images/oled__P20_P19_GND_3V.png)
+- Group of I2C female header, which can connect with OLED module.
+
+![I2C Female Port of Sensor:bit board](images/sensor_bit_i2c.jpg){ width="420" height="240" }
+
+- Connect the OLED module directly.
+
+![OLED connection](images/oled.jpg){ width="420" height="240" }
 
 ---
 
