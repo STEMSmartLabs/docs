@@ -89,9 +89,26 @@ nav:
         - Soil Moisture: products/microbit-neo-beginner-kit/examples/moisture.md
         - Smart Plant Watering: products/microbit-neo-beginner-kit/examples/smart-plant-watering.md
         - Smart Fan Challenge: products/microbit-neo-beginner-kit/examples/smart-fan.md
-        
+    - DIY Robot Dog Kit:
+      - Introduction: products/diy-robot-dog-kit/index.md   
+      - Brain of Robot Dog: 
+        - Brain Controller: products/diy-robot-dog-kit/controller/brain_controller.md  
+      - Build Robot Dog: 
+        - Robot Dog Assembly: products/diy-robot-dog-kit/assemble/build.md
+        - Servo Motor Horn: products/diy-robot-dog-kit/assemble/servomotor_horn.md
+        - Front Leg: products/diy-robot-dog-kit/assemble/front_leg.md
+        - Back Leg: products/diy-robot-dog-kit/assemble/back_leg.md
+        - Both Legs: products/diy-robot-dog-kit/assemble/front_back_leg.md
+        - Body and Legs: products/diy-robot-dog-kit/assemble/body_legs.md
+        - Head and Neck: products/diy-robot-dog-kit/assemble/head_neck.md
+        - Tail and Art: products/diy-robot-dog-kit/assemble/tail_and_art.md
+        - Final Assembly: products/diy-robot-dog-kit/assemble/final_assembly.md
+      
+
+
        
         
+
         
        
         
