@@ -90,7 +90,7 @@ Position the board so that:
 - The micro:bit buttons and display face forward.
 - The board sits safely inside the body.
 - The servo wires can easily reach the expansion board.
-- The IR sensor wire can reach the top/front of the Robot Dog head.
+- The **IR sensor wire** can reach the top/front of the Robot Dog head as shown in the above image.
 - The board does not touch the moving servo horns or legs.
 
 ## 2. Secure the Brain Using the Velcro Band
@@ -131,7 +131,7 @@ The Robot Dog electronics are ready for programming and testing.
 
 ## If You Want to Program It Yourself Using MakeCode
 
-Use this method if the robot program is not already loaded in the micro:bit.
+Use this method if the robot program is not already programmed in the micro:bit.
 
 ### 1. Connect the Micro:bit
 
@@ -143,7 +143,7 @@ Connect the micro:bit to your computer using a USB cable.
 <div style="position:relative; height:500px; width:100%; overflow:hidden;">
   <iframe
     style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #e0e0e0; border-radius:6px;"
-    src="https://makecode.microbit.org/_96y0xpTPj9HL"
+    src="https://makecode.microbit.org/S03454-87582-65411-67307"
     allowfullscreen="allowfullscreen"
     frameborder="0"
     sandbox="allow-popups allow-forms allow-scripts allow-same-origin allow-downloads">

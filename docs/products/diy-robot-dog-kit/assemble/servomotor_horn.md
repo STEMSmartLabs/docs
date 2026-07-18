@@ -32,23 +32,7 @@ Take one servo motor set and identify the following:
 
 Repeat the same for the second servo motor set.
 
-### 2. Keep the Servo Horn Separate First
-
-Do not immediately screw the servo horn tightly onto the servo motor. First, the servo should be kept in its center position. This helps the Robot Dog walk correctly after assembly.
-
-### 3. Set the Servo to Center Position
-
-Before fixing the horn, connect the servo motor to the controller and move it to the center angle.
-
-Recommended center position:
-
-```text
-90 degrees
-```
-
-Once the servo reaches the center position, disconnect power carefully without rotating the shaft by hand.
-
-### 4. Place the Servo Horn on the Shaft
+### 2. Place the Servo Horn on the Shaft
 
 Fit the servo horn on top of the servo motor shaft. Align it as shown in the assembly video.
 
@@ -57,15 +41,14 @@ Make sure:
 - The horn sits properly on the servo shaft.
 - The horn is not tilted.
 - The horn is aligned before tightening the screw.
-- The horn can rotate freely without touching the servo body.
 
-### 5. Fix the Horn Using the Small Screw
+### 3. Fix the Horn Using the Small Screw
 
 Insert the small screw into the center of the horn and tighten it gently.
 
 Do not over-tighten the screw. Tighten only enough so that the horn does not come loose during movement.
 
-### 6. Repeat for the Second Servo Motor
+### 4. Repeat for the Second Servo Motor
 
 Use the second servo motor set and repeat the same process.
 
@@ -84,16 +67,14 @@ Before moving to the next assembly step, check the following:
 | Horn screws are fixed | Yes |
 | Servo wires are not damaged | Yes |
 | Horns are aligned as shown in the video | Yes |
-| Horns can rotate freely | Yes |
 
 ## Common Mistakes to Avoid
 
 | Mistake | How to Avoid It |
 |---|---|
-| Fixing the horn before centering the servo | First move the servo to 90 degrees, then attach the horn. |
+| Fixing the horn before centering the servo | First calibrate the servo to **initial position** as explained in the brain controller section, then attach the horn. |
 | Over-tightening the screw | Tighten gently until the horn is secure. |
-| Forcing the servo shaft by hand | Use the controller/program to rotate the servo. |
-| Using different horn orientations for the two servos | Follow the video and keep both horn assemblies consistent. |
+| Forcing the servo shaft by hand | Use the program provided in brain controller section to initialize the servo position. |
 
 ## Assembly Video
 

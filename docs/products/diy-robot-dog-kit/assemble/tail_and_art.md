@@ -112,19 +112,6 @@ Write the name on the side of the body or near the head.
 | Back legs hit the tail | Tail is inserted too low or tilted | Adjust the tail position |
 | Face drawing smudges | Ink has not dried | Allow the marker ink to dry fully |
 
-## Completed Step
 
-The Robot Dog assembly is now complete.
-
-Your Robot Dog has:
-
-- Body
-- Front and back legs
-- Head and neck
-- Tail
-- Micro:bit and expansion board
-- Servo motors
-- IR sensor
-- Creative face design
 
 Your DIY Robot Dog is ready for final assembly

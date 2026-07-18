@@ -54,7 +54,7 @@ Do not overtighten the screws. Tighten them just enough so that the micro:bit ma
 
 ## 3. Connect the Servo Motor
 
-Connect the **servo motor** to **P0** on the expansion board and caliberate which is eseential for assembling
+Connect the **servo motor** to **P0** on the expansion board and calibrate which is essential for leg assembly
 
 Servo wire connection:
 
@@ -82,34 +82,10 @@ Check the following:
 - Do not overtighten the screws on the micro:bit.
 - Make sure the servo connectors are inserted in the correct direction.
 
-## Servo Motor Initial Position Setup
 
-Before assembling the Robot Dog , both servo motors must be set to their **initial 90° position**. This step is important because the servo horn position decides how the legs will move during walking.
+## If You Want to Program It Yourself Using MakeCode 
 
-
-## If the Program Is Already Preloaded
-
-If the servo-centering program is already loaded in the micro:bit, you can skip the programming step.
-
-Follow these steps:
-
-1. Insert the micro:bit into the expansion board.
-2. Connect the first servo motor to the expansion board.
-3. Turn **ON** the power switch on the expansion board.
-4. The servo motor will automatically move to **90°**, which is the initial center position.
-5. Turn **OFF** the power switch on the expansion board.
-6. Do not rotate or disturb the servo shaft after it reaches 90°.
-7. Connect the second servo motor and repeat the same steps.
-8. Once both servo motors are set to 90°, continue with the assembly.
-
-!!! warning
-    Do not disturb the servo horn or servo shaft after setting the servo to 90°. If the position changes, the Robot Dog leg movement may not work properly.
-
----
-
-## If You Want to Program It Yourself Using MakeCode
-
-Use this method if the robot program is not already loaded in the micro:bit.
+Use this method if the robot program is **not already pre programmed** in the micro:bit.
 
 ### 1. Connect the Micro:bit
 
@@ -121,7 +97,7 @@ Connect the micro:bit to your computer using a USB cable.
 <div style="position:relative; height:500px; width:100%; overflow:hidden;">
   <iframe
     style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #e0e0e0; border-radius:6px;"
-    src="https://makecode.microbit.org/_96y0xpTPj9HL"
+    src="https://makecode.microbit.org/S03454-87582-65411-67307"
     allowfullscreen="allowfullscreen"
     frameborder="0"
     sandbox="allow-popups allow-forms allow-scripts allow-same-origin allow-downloads">
@@ -133,3 +109,24 @@ Connect the micro:bit to your computer using a USB cable.
 - Open the above program in https://makecode.microbit.org/ by clicking on Edit Code and clicking on the arrow. 
 
 - Click download and program the code.
+
+## Servo Motor Initial Position Setup
+
+Before assembling the Robot Dog , both servo motors must be set to their **initial position**. This step is important because the servo horn position decides how the legs will move during walking.
+
+Follow these steps:
+
+1. Insert the micro:bit into the expansion board.
+2. Connect the first servo motor to the expansion board.
+3. Turn **ON** the power switch on the expansion board.
+4. The servo motor will automatically move to the initial center position.
+5. Turn **OFF** the power switch on the expansion board.
+6. Do not rotate or disturb the servo shaft after it reaches **initial position**.
+7. Connect the second servo motor and repeat the same steps.
+8. Once both servo motors are set to **initial position**, continue with the assembly.
+
+!!! warning
+    Do not disturb the servo horn or servo shaft after setting the servo to **initial position**. If the position changes, the Robot Dog leg movement may not work properly.
+
+---
+
