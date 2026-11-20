@@ -6,7 +6,8 @@ Let's build the head and tail section of your Robot Dog! Before assembling anyth
 
 The image below shows all the parts required to build the top part of the DIY Robot Dog.
 
-<img src="../images/Robot_Dog_Top_All_parts.jpeg" alt="DIY Robot Dog Top All Parts" width="100%">
+<img src="../images/Robot_Dog_Top_All_parts.jpeg" alt="DIY Robot Dog Top All Parts"
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 ## Parts Identification
 | No. | Part | Description and purpose |

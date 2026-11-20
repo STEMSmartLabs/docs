@@ -7,7 +7,8 @@ Let's give your robot a magical unicorn head! In this step, you will fold the ca
 
 ## Parts Required
 
-<img src="../images/RobotUnicorn_Head_Parts.jpeg" alt="Unicorn head cardboard, two round cardboard pieces, screws, nuts, and white plastic screws" width="75%">
+<img src="../images/RobotUnicorn_Head_Parts.jpeg" alt="Unicorn head cardboard, two round cardboard pieces, screws, nuts, and white plastic screws" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 | Part | Quantity | Purpose |
 |---|---:|---|
@@ -72,7 +73,8 @@ Avoid forcing the cardboard. Fold slowly to prevent tearing along the crease lin
 
 ## Completed Unicorn Head
 
-<img src="../images/06_RobotUnicorn_Head.jpeg" alt="Completed assembled Robot Unicorn head" width="75%">
+<img src="../images/06_RobotUnicorn_Head.jpeg" alt="Completed assembled Robot Unicorn head" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 Your robot now has a unicorn head with two ears and a pointed horn!
 
@@ -96,7 +98,8 @@ Once the head is securely attached, continue with the remaining robot assembly a
 
 ## Assembly Video
 
-<video controls width="100%" preload="metadata" poster="../images/06_RobotUnicorn_Head.jpeg">
+<video controls width="100%" preload="metadata" poster="../images/06_RobotUnicorn_Head.jpeg"
+style="width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 8px; background: #000;">
   <source src="../videos/06_RobotUnicorn_Head.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

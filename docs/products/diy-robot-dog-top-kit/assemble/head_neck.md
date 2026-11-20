@@ -23,7 +23,8 @@ Now that the **Robot Dog head** and **neck mechanism** are assembled, it is time
 
 Take the assembled head. Find the metal screw fitted through the folded cardboard tab in the middle of the forehead, between the two ears.
 
-<img src="../images/04_RobotDog_Head.jpeg" alt="Assembled Robot Dog head with forehead screw" width="70%">
+<img src="../images/04_RobotDog_Head.jpeg" alt="Assembled Robot Dog head with forehead screw" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 ## Step 2: Align the Head with the Neck
 
@@ -48,7 +49,8 @@ Hold the head in front of the Robot Dog body, with its face looking forward.
 
 Your Robot Dog should now look like the assembled model below.
 
-<img src="../images/05_RobotDog_Head_Neck.jpeg" alt="Robot Dog head attached to the neck and trunk" width="70%">
+<img src="../images/05_RobotDog_Head_Neck.jpeg" alt="Robot Dog head attached to the neck and trunk" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 Check the following:
 
@@ -62,7 +64,8 @@ Check the following:
 
 ## Assembly Video
 
-<video controls width="100%" preload="metadata" poster="../images/05_RobotDog_Head_Neck.jpeg">
+<video controls width="100%" preload="metadata" poster="../images/05_RobotDog_Head_Neck.jpeg"
+style="width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 8px; background: #000;">
   <source src="../videos/05_RobotDog_Head_Neck.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

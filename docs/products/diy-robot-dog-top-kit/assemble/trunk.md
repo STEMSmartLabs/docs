@@ -13,7 +13,8 @@ In this step, we will make the **trunk (body)** of the Robot Dog from the pre-cu
 
 Take the trunk cardboard piece shown below. Find the **marked fold lines**, the **rectangular opening** in the centre, and the **small fixing holes**.
 
-<img src="../images/Trunk_Part.jpeg" alt="Flat trunk cardboard with fold lines and servo opening" width="75%">
+<img src="../images/Trunk_Part.jpeg" alt="Flat trunk cardboard with fold lines and servo opening" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 Before folding, check that the cardboard is not damaged and that the rectangular opening is clear.
 
@@ -32,7 +33,8 @@ Before folding, check that the cardboard is not damaged and that the rectangular
 
 Use the **servo motor horn assembly** completed in the previous step. The picture below shows the servo attached to its cardboard connector.
 
-<img src="../images/Servo_Horn.png" alt="Prepared servo motor with cardboard horn connector" width="65%">
+<img src="../images/Servo_Horn.png" alt="Prepared servo motor with cardboard horn connector" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 Before fitting the assembly:
 
@@ -50,7 +52,8 @@ Before fitting the assembly:
 
 The following image shows the trunk with the servo motor inserted and the wire routed outside the opening.
 
-<img src="../images/02_RobotDog_Trunk.jpeg" alt="Servo motor inserted into the folded trunk cardboard" width="80%">
+<img src="../images/02_RobotDog_Trunk.jpeg" alt="Servo motor inserted into the folded trunk cardboard" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 !!! warning
     Do not pull on the servo cable or force the servo into the cutout. Check its orientation against the assembly image before pressing it into place.
@@ -72,7 +75,8 @@ The **Robot Dog trunk** is now folded, and the **servo motor horn assembly** is 
 
 ## Assembly Video
 
-<video controls width="100%" preload="metadata" poster="../images/02_RobotDog_Trunk.jpeg">
+<video controls width="100%" preload="metadata" poster="../images/02_RobotDog_Trunk.jpeg" 
+  style="width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 8px; background: #000;">
   <source src="../videos/02_RobotDog_Trunk.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

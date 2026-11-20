@@ -13,7 +13,8 @@ The expansion board helps us connect the Servo and power easily to the micro:bit
 
 ## Brain of the Robot Dog
 
-<img src="../images/Expansionboard_Microbit_Assembled.jpeg" alt="Microbit Mounted on Expansion Board" width="70%">
+<img src="../images/Expansionboard_Microbit_Assembled.jpeg" alt="Microbit Mounted on Expansion Board" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 ## 3. Connect the Servo Motor
 
@@ -29,7 +30,8 @@ Servo wire connection:
 
 Make sure the servo connector is inserted in the correct direction.
 
-<img src="../images/Expansionboard_Servo_P2.jpeg" alt="Servo connected to P2 of expansion Board" width="70%">
+<img src="../images/Expansionboard_Servo_P2.jpeg" alt="Servo connected to P2 of expansion Board" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 
 ## 1. Place the Brain Controller on the Body

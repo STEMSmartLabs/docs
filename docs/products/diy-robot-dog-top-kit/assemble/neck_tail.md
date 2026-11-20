@@ -19,11 +19,13 @@ Follow the pictures and steps carefully. **Do not switch ON the servo motor duri
 
 ### Previously assembled trunk
 
-<img src="../images/02_RobotDog_Trunk.jpeg" alt="Previously assembled Robot Dog trunk with servo motor" width="75%">
+<img src="../images/02_RobotDog_Trunk.jpeg" alt="Previously assembled Robot Dog trunk with servo motor" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 ### Neck, tail, screws and nuts
 
-<img src="../images/Neck_Tail_Screw_Nuts.png" alt="Long neck piece, shorter tail piece, screws and nuts" width="65%">
+<img src="../images/Neck_Tail_Screw_Nuts.png" alt="Long neck piece, shorter tail piece, screws and nuts" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 ## Step 1: Identify the neck and tail
 
@@ -84,7 +86,8 @@ The **2 reused nuts** now connect the neck and tail to the servo-operated cardbo
 
 Compare your assembly with the reference picture below.
 
-<img src="../images/03_RobotDog_Neck_Tail.jpeg" alt="Neck and tail linkage being fitted to the Robot Dog trunk" width="75%">
+<img src="../images/03_RobotDog_Neck_Tail.jpeg" alt="Neck and tail linkage being fitted to the Robot Dog trunk" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 Check the following before proceeding:
 
@@ -119,7 +122,8 @@ Great job! The **neck and tail assembly** is now complete. Both parts are linked
 
 ## Assembly Video
 
-<video controls width="100%" preload="metadata" poster="../images/03_RobotDog_Neck_Tail.jpeg">
+<video controls width="100%" preload="metadata" poster="../images/03_RobotDog_Neck_Tail.jpeg"
+style="width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 8px; background: #000;">
   <source src="../videos/03_RobotDog_Neck_Tail.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

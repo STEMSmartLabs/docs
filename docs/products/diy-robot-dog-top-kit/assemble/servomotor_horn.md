@@ -4,7 +4,8 @@ In this step, we will assemble the **servo motor connector** and attach the **se
 
 ## Parts Required
 
-<img src="../images/Servo_Motor_Setup.jpeg" alt="Servo motor connector cardboard pieces, screws and nuts, servo motor, servo horn, and small screws" width="80%">
+<img src="../images/Servo_Motor_Setup.jpeg" alt="Servo motor connector cardboard pieces, screws and nuts, servo motor, servo horn, and small screws" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 | Part | Quantity | Purpose |
 |---|---:|---|
@@ -55,7 +56,8 @@ In this step, we will assemble the **servo motor connector** and attach the **se
 
 Follow the video to see how the cardboard connector, servo horn, and servo motor are fitted together.
 
-<video controls width="100%" preload="metadata" poster="../images/01_RobotDog_Servo.jpeg">
+<video controls width="100%" preload="metadata" poster="../images/01_RobotDog_Servo.jpeg" 
+style="width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 8px; background: #000;">
   <source src="../videos/01_RobotDog_Servo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

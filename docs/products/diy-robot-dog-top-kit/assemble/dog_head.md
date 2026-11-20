@@ -4,7 +4,8 @@ Let's assemble the Robot Dog's head! In this step, you will attach the two round
 
 ## Parts Required
 
-<img src="../images/RobotDog_Head.jpeg" alt="Robot Dog head cardboard parts, circular pieces, white screws, and a metal screw with nut" width="75%">
+<img src="../images/RobotDog_Head.jpeg" alt="Robot Dog head cardboard parts, circular pieces, white screws, and a metal screw with nut" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 | Part | Quantity | Purpose |
 |---|---:|---|
@@ -43,7 +44,8 @@ Do not overtighten the metal screw, as it may damage the cardboard.
 
 ## Completed Head Assembly
 
-<img src="../images/04_RobotDog_Head.jpeg" alt="Completed Robot Dog head with two round cardboard pieces, three white screws, and folded forehead secured with a metal screw" width="75%">
+<img src="../images/04_RobotDog_Head.jpeg" alt="Completed Robot Dog head with two round cardboard pieces, three white screws, and folded forehead secured with a metal screw" 
+  style="width: 75%; height: 320px; object-fit: contain; background: #f5f5f5; border-radius: 8px;">
 
 Your Robot Dog head is ready! Compare your assembled piece with the example above.
 
@@ -61,7 +63,8 @@ Your Robot Dog head is ready! Compare your assembled piece with the example abov
 
 ## Assembly Video
 
-<video controls width="100%" preload="metadata" poster="../images/04_RobotDog_Head.jpeg">
+<video controls width="100%" preload="metadata" poster="../images/04_RobotDog_Head.jpeg"
+style="width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 8px; background: #000;">
   <source src="../videos/04_RobotDog_Head.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
