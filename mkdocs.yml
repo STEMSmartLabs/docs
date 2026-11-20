@@ -89,7 +89,7 @@ nav:
         - Soil Moisture: products/microbit-neo-beginner-kit/examples/moisture.md
         - Smart Plant Watering: products/microbit-neo-beginner-kit/examples/smart-plant-watering.md
         - Smart Fan Challenge: products/microbit-neo-beginner-kit/examples/smart-fan.md
-    - DIY Robot Dog Kit:
+    - DIY Robot Dog Base Kit:
       - Introduction: products/diy-robot-dog-kit/index.md   
       - Brain of Robot Dog: 
         - Brain Controller: products/diy-robot-dog-kit/controller/brain_controller.md  
@@ -105,6 +105,22 @@ nav:
         - Final Assembly: products/diy-robot-dog-kit/assemble/final_assembly.md
       - Experiment and Play:
         - Play time: products/diy-robot-dog-kit/experiment/experiment_play.md
+    - DIY Robot Dog Top Kit:
+      - Introduction: products/diy-robot-dog-top-kit/index.md  
+      - Brain of Robot Dog: 
+        - Brain Controller: products/diy-robot-dog-top-kit/controller/brain_controller.md  
+      - Build Robot Dog Top:  
+        - Robot Dog Assembly: products/diy-robot-dog-top-kit/assemble/build.md
+        - Servo Motor Horn: products/diy-robot-dog-top-kit/assemble/servomotor_horn.md
+        - Trunk: products/diy-robot-dog-top-kit/assemble/trunk.md
+        - Neck and Tail: products/diy-robot-dog-top-kit/assemble/neck_tail.md
+        - Robot Dog Head: products/diy-robot-dog-top-kit/assemble/dog_head.md
+        - Head and Neck: products/diy-robot-dog-top-kit/assemble/head_neck.md
+        - Final Assembly: products/diy-robot-dog-top-kit/assemble/final_assembly.md
+      - Experiment and Play:
+        - Play time: products/diy-robot-dog-top-kit/experiment/experiment_play.md
+        - Unicorn: products/diy-robot-dog-top-kit/experiment/unicorn_head.md
+    
       
 
 
